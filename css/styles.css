@@ -26,6 +26,7 @@ html {
 .row{
   margin:30px;
   height: 100vh;
+  display: block;
 }
 .heading{
   padding-top: 50px;
