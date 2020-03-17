@@ -14,10 +14,9 @@ header nav {
 }
 #main{
   height: 100vh;
-  overflow: hidden;
 }
 .content{
-  text-align: center;
+  text-align: justify;
   padding: 50px;
   display: block;
 }
@@ -25,16 +24,17 @@ html {
   scroll-behavior: smooth;
 }
 .row{
-  margin:30px;
+  padding-top: 30px;
   height: 100vh;
 }
 .heading{
+
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
 }
 .image{
-  width:100%;
+  height: 350px;
   border-radius:15px;
   margin-left: auto;
   margin-right: auto;
@@ -48,4 +48,5 @@ html {
 footer{
     background-color:#deeaee;
     text-align: center;
+    padding-bottom: 10px;
 }
